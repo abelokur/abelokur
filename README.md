@@ -1,6 +1,6 @@
-## Привет! 👋 Меня зовут Андрей, я Java-разработчик
+# Привет! 👋 Меня зовут Андрей, я Java-разработчик
 
-Выпускник Яндекс.Практикум(Java-разработчик)'26
+# Выпускник Яндекс.Практикум(Java-разработчик)'26
 <!--
 **abelokur/abelokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
