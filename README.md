@@ -14,7 +14,8 @@ API/Документация: Postman, Swagger<br>
 DevOps: Docker, Docker Compose<br>
 IDE: IntelliJ IDEA<br>
 #### Контакты для связи:
- [abelokur@yandex.ru](mailto:abelokur@yandex.ru)
+ Email: [abelokur@yandex.ru](mailto:abelokur@yandex.ru)<br>
+ Telegram: @abelokur07<br>
 <!--
 **abelokur/abelokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
