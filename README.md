@@ -16,6 +16,10 @@ IDE: IntelliJ IDEA<br>
 #### Контакты для связи:
  Email: [abelokur@yandex.ru](mailto:abelokur@yandex.ru)<br>
  Telegram: @abelokur07<br>
+ #### Примеры реализованных проектов:
+ Explore With Me - Backend афиша позволяет пользователям делиться информацией об интересных событиях и находить компанию для участия в них. Стек: Java, Spring Boot, SQL, PostgreSQL, JPA, Hibernate, Maven, Docker.<br>
+
+Smart Home Technologies - Backend система для сбора и анализа данных от датчиков умного дома, определить, какие сценарии умного дома необходимо запустить. Стек: Java, Spring Boot, SQL, PostgreSQL, JPA, Hibernate, Maven, Docker, Spring Cloud, Config Server, Eureka, Gateway.<br>
 <!--
 **abelokur/abelokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
