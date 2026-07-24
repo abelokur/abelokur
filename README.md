@@ -1,8 +1,8 @@
 ### Привет! 👋 Меня зовут Андрей, я Java-разработчик
 ---
 ### Выпускник Яндекс.Практикум(Java-разработчик)'26
-
-Мой технологический стек 💻:
+---
+Мой технологический стек 💻:<br>
 Языки: Java, SQL
 Фреймворки: Spring, Spring Boot, Spring Cloud(Config, Eureka, Gateway), Spring Data, Spring Security, Hibernate ORM
 Базы данных: PostgreSQL, H2, Redis, Liquibase
