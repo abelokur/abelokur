@@ -13,7 +13,7 @@ API/Документация: Postman, Swagger<br>
 Интеграции: Kafka, gRPC, Avro, Protobuf, Feign-клиенты, Circuit Breaker (Resilience4j)<br>
 DevOps: Docker, Docker Compose<br>
 IDE: IntelliJ IDEA<br>
- 
+ [my@email.com](mailto:my@email.com)
 <!--
 **abelokur/abelokur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
